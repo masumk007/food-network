@@ -1,12 +1,17 @@
-.diet{
+.body{
+    margin: 0;
+}
+.diet-need{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     padding: 10px;
 }
 h1{
     font-family: 'Source Code Pro', monospace;
     font-size: 55px;
-
+}
+h2{
+    font-size: 40px;
 }
 .skip-color{
     color: orangered;
@@ -23,4 +28,24 @@ h1{
 }
 .skip-food img{
     width: 80%;
+}
+.about-food{
+    padding: 70px;
+    width: 50%;
+}
+.more-button{
+    text-decoration: none;
+    padding: 10px 15px;
+    background-image: linear-gradient(rgb(199, 102, 11), rgb(202, 14, 14));
+    border-radius: 15px;
+    color: black;
+}
+.try{
+   padding-top: 10%;
+}
+.me{
+    background-image: url(images/7.png)
+}
+.dos{
+    text-align: center;
 }
