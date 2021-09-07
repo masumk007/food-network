@@ -1,0 +1,26 @@
+.diet{
+    display: flex;
+    margin-bottom: 150px;
+    padding: 10px;
+}
+h1{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 55px;
+
+}
+.skip-color{
+    color: orangered;
+}
+.skip-food{
+    padding: 20px;
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(red, yellow);
+    border-radius: 20px;
+}
+.skip-food img{
+    width: 80%;
+}
